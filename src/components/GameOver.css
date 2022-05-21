@@ -1,0 +1,10 @@
+h2 {
+  display: flex;
+  align-items: center;
+}
+
+h2 span {
+  color: #e2547f;
+  font-size: 1.25em;
+  margin-left: 5px;
+}
